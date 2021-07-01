@@ -1,5 +1,5 @@
 package myapp;
 
-public class z {
+public class z extends x{
     
 }
